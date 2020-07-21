@@ -8,7 +8,7 @@ After that record starting and the file will be created which named 'gitar-akor1
 
 After recording, code will compare the frequency value with the correct frequency value for each string.
 For this action the code asks 'which string do you want to compare?'.(The answer must be: 1,2,3,4,5 or 6)
-after that the file will be found for example 'gitar-akor2.wav'.This voice file has an frequency value and the code calcute it.Then compare with the correct frequency value.
-If it's not equal to correct frequency value the code will be instructed what you have to do.Example, turn the tuning key clockwise.
+after that the file will be found for example 'gitar-akor2.wav'.This voice file has an frequency value and the code calculate it.Then compare with the correct frequency value.
+If it's not equal to correct frequency value, the code will be instructed what you have to do.Example, turn the tuning key to clockwise.
 
 After instruction, repeat all steps until reach correct frequency value for all strings.
